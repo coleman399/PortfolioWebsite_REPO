@@ -17,17 +17,6 @@ function App() {
         autoPlay
         loop
         muted
-        style={{
-          position: 'absolute',
-          width: "100%",
-          left: "100%",
-          right: "100%",
-          top: "100%",
-          height: "100%",
-          object: "cover",
-          transform:"translate(-50%, -50%)",
-          zIndex: "-1"
-        }}
       >
         <source src={GalaxyLoop} type="video/mp4"/>
       </video>
