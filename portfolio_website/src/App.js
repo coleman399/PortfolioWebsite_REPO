@@ -20,8 +20,9 @@ function App() {
         style={{
           position: 'absolute',
           width: "100%",
-          left: "50%",
-          top: "50%",
+          left: "100%",
+          right: "100%",
+          top: "100%",
           height: "100%",
           object: "cover",
           transform:"translate(-50%, -50%)",
