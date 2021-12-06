@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,MACE,gBAAiB,CACjB,WAAY,CACZ,YAAa,CACb,cAAe,CACf,KAAM,CACN,MACF","file":"main.a3873f0b.chunk.css","sourcesContent":["video {\r\n  object-fit: cover;\r\n  width: 100vw;\r\n  height: 100vh;\r\n  position: fixed;\r\n  top: 0;\r\n  left: 0;\r\n}"]}
