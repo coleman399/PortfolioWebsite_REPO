@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import GalaxyLoop from './assests/GalaxyLoop.mov';
 import './App.css';
 
